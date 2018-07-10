@@ -1,0 +1,46 @@
+{
+    "producer_account_name": "eossocalprod",
+    "producer_public_key": "EOS777j1G9Xmm63PLhVL5mvKLhGBmUznC3CvNKWeJXnGE3RqygfYu",
+    "org": {
+        "candidate_name": "eossocal",
+        "website": "http://www.eossocal.io",
+        "code_of_conduct":"https://steemit.com/eos/@eos-socal/eos-socal-statement-of-values-code-of-conduct-community-benefit-timeline-and-more",
+        "email":"connect@eosocal.io",
+        "branding":{
+            "logo_256":"https://i.imgur.com/Qwy1N8t.png",
+            "logo_1024":"https://i.imgur.com/9p5DBuM.png",
+            "logo_svg":""
+        },
+        "location": {
+            "name": "Los Angeles, CA",
+            "country": "US",
+            "latitude": 34.105994,
+            "longitude": -117.597086
+        },
+        "social": {
+            "steemit": "eos-socal",
+            "twitter": "eos_la",
+            "youtube": "",
+            "facebook": "",
+            "github":"eosocal",
+            "reddit": "eosocal",
+            "keybase": "gmory",
+            "telegram": "eossocal",
+            "wechat":""
+        }
+    },
+    "nodes": [
+        {
+            "location": {
+            "name": "Los Angeles, CA",
+            "country": "US",
+            "latitude": 34.105994,
+            "longitude": -117.597086
+            },
+            "is_producer": true,
+            "p2p_endpoint": "54.153.59.31:9999",
+            "api_endpoint": "public.eosocal.io",
+            "ssl_endpoint": ""
+        }
+    ]
+}
