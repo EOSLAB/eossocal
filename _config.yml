@@ -7,47 +7,47 @@ description: "Proud EOSIO Block Producer Candidate from Southern California."
 
 # Team names, titles and social links
 people:
-- name: Cesar Diaz
-  pic: cesar.webp
-  position: Strategy Lead
-  bio: "Having successfully exited multiple self-funded technology and marketing ventures, Cesar now focuses his full time supporting and developing decentralized free market solutions that secure life, liberty and property; which he believes will lead to a future of efficiency, accountability, and prosperity."
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/cesardiazoai/
-    - title: twitter
-      url: https://twitter.com/eos_la
-    - title: steem
-      icon: icomoon
-      url: https://steemit.com/introduceyourself/@ceezdeez/hi-steem-community-i-m-new-here-and-i-ll-be-contributing-truth-and-enlightenment-to-empower-humanity
-    - title: telegram
-      icon: icomoon
-      url: #
+  - name: Cesar Diaz
+    pic: cesar.webp
+    position: Strategy Lead
+    bio: "Having successfully exited multiple self-funded technology and marketing ventures, Cesar now focuses his full time supporting and developing decentralized free market solutions that secure life, liberty and property; which he believes will lead to a future of efficiency, accountability, and prosperity."
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/cesardiazoai/
+      - title: twitter
+        url: https://twitter.com/eos_la
+      - title: steem
+        icon: icomoon
+        url: https://steemit.com/introduceyourself/@ceezdeez/hi-steem-community-i-m-new-here-and-i-ll-be-contributing-truth-and-enlightenment-to-empower-humanity
+      - title: telegram
+        icon: icomoon
+        url: #
 
-- name: Alex Gomory
-  pic: alex.png
-  position: Tech Lead
-  bio: "Alex is active in both hardware and software development and assists with cloud-based and bare metal node configuration and operations. He has been involved with EOSIO launch community since the early days participating in testnet development, security infrastructure, and livenet BIOS and launch preparations."
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/alex-gomory/
-    - title: steem
-      icon: icomoon
-      url: https://steemit.com/@gmory
-    - title: telegram
-      icon: icomoon
-      url: https://t.me/gmory
+  - name: Alex Gomory
+    pic: alex.png
+    position: Tech Lead
+    bio: "Alex is active in both hardware and software development and assists with cloud-based and bare metal node configuration and operations. He has been involved with EOSIO launch community since the early days participating in testnet development, security infrastructure, and livenet BIOS and launch preparations."
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/alex-gomory/
+      - title: steem
+        icon: icomoon
+        url: https://steemit.com/@gmory
+      - title: telegram
+        icon: icomoon
+        url: https://t.me/gmory
 
-- name: Virginia Larez
+  - name: Virginia Larez
   pic: virginia.webp
   position: Administration
   bio: "Virginia has been doing executive administration for over ten years and is in charge of accounting, corporate administration, HR and more, and has worked as lead administrator during two successful exits."
 
 advisors:
-- name: Michael Murphy, Ph.D
-  pic: michael.webp
-  bio: "Michael received his Ph.D in Computer Science from the University of Maryland--College Park. He has 20+ years of experience in algorithm design, data science, machine learning, and real-time distributed systems."
+  - name: Michael Murphy, Ph.D
+    pic: michael.webp
+    bio: "Michael received his Ph.D in Computer Science from the University of Maryland--College Park. He has 20+ years of experience in algorithm design, data science, machine learning, and real-time distributed systems."
 
-- name: Maurice Vanegas
+  - name: Maurice Vanegas
   pic: maurice.webp
   bio: "A UCLA graduate and monetary policy enthusiast, Maurice is a serial entrepreneur in Los Angeles. Among various successful companies, he founded TEZO Systems, a technology company involved in blockchain node operations and programming academy."
 
