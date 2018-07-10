@@ -38,9 +38,9 @@ people:
         url: https://t.me/gmory
 
   - name: Virginia Larez
-  pic: virginia.webp
-  position: Administration
-  bio: "Virginia has been doing executive administration for over ten years and is in charge of accounting, corporate administration, HR and more, and has worked as lead administrator during two successful exits."
+    pic: virginia.webp
+    position: Administration
+    bio: "Virginia has been doing executive administration for over ten years and is in charge of accounting, corporate administration, HR and more, and has worked as lead administrator during two successful exits."
 
 advisors:
   - name: Michael Murphy, Ph.D
@@ -48,8 +48,8 @@ advisors:
     bio: "Michael received his Ph.D in Computer Science from the University of Maryland--College Park. He has 20+ years of experience in algorithm design, data science, machine learning, and real-time distributed systems."
 
   - name: Maurice Vanegas
-  pic: maurice.webp
-  bio: "A UCLA graduate and monetary policy enthusiast, Maurice is a serial entrepreneur in Los Angeles. Among various successful companies, he founded TEZO Systems, a technology company involved in blockchain node operations and programming academy."
+    pic: maurice.webp
+    bio: "A UCLA graduate and monetary policy enthusiast, Maurice is a serial entrepreneur in Los Angeles. Among various successful companies, he founded TEZO Systems, a technology company involved in blockchain node operations and programming academy."
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
