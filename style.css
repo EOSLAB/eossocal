@@ -1,6 +1,22 @@
 ---
 layout: style
 ---
+#top {
+    display: none;
+    
+    
+    background-color: #{{ site.data.template.color.primary }};
+    border: 2px solid white;
+    z-index: 50;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+#top i {
+    color: white;
+    padding: 5px;
+    font-size: 36px;
+}
 .navbar.navbar-shrink .logo {
     display: initial;
 }
