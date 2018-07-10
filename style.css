@@ -52,6 +52,9 @@ h4 {
 .light {
     font-weight: 100;
 }
+section#contact .form-group textarea.form-control {
+    height: 156px;
+}
 header {
     background-image: url('{{ site.baseurl }}/img/background.webp');
 }
@@ -62,20 +65,20 @@ header .intro-text .intro-lead-out {
     font-style: italic;
     line-height: 22px;
 }
-
-section#contact .form-group textarea.form-control {
-    height: 156px;
-}
 @media(min-width:768px) {
     header .intro-text {
         padding: 200px 0;
     }
+    header .intro-text .intro-heading {
+        font-size: 55px;
+        margin-bottom: 30px;
+    }
     header .intro-text .intro-lead-out {
-        margin-bottom: 25px;
+        margin-bottom: 40px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 32px;
+        font-size: 28px;
         font-style: italic;
-        line-height: 32px;
+        line-height: 28px;
     }
 }
 
