@@ -1,0 +1,11 @@
+---
+title: EOS GO BP
+subtitle: Tool
+layout: default
+modal-id: 6
+img: bp-eosgo.png
+thumbnail: bp-eosgo-thumbnail.png
+alt: eosdrops
+link: https://bp.eosgo.io
+description: Helped build EOS Go block producer website to help inform voters.
+---
