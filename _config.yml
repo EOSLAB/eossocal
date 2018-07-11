@@ -10,7 +10,7 @@ metadescription: "We are EOS Southern California, a group dedicated to supportin
 # Team names, titles and social links
 people:
   - name: Cesar Diaz
-    pic: cesar.webp
+    pic: cesar.png
     position: Strategy Lead
     bio: "Having successfully exited multiple self-funded technology and marketing ventures, Cesar now focuses his full time supporting and developing decentralized free market solutions that secure life, liberty and property; which he believes will lead to a future of efficiency, accountability, and prosperity."
     social:
@@ -40,17 +40,17 @@ people:
         url: https://t.me/gmory
 
   - name: Virginia Larez
-    pic: virginia.webp
+    pic: virginia.png
     position: Administration
     bio: "Virginia has been doing executive administration for over ten years and is in charge of accounting, corporate administration, HR and more, and has worked as lead administrator during two successful exits."
 
 advisors:
   - name: Michael Murphy, Ph.D
-    pic: michael.webp
+    pic: michael.png
     bio: "Michael received his Ph.D in Computer Science from the University of Maryland--College Park. He has 20+ years of experience in algorithm design, data science, machine learning, and real-time distributed systems."
 
   - name: Maurice Vanegas
-    pic: maurice.webp
+    pic: maurice.png
     bio: "A UCLA graduate and monetary policy enthusiast, Maurice is a serial entrepreneur in Los Angeles. Among various successful companies, he founded TEZO Systems, a technology company involved in blockchain node operations and programming academy."
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
