@@ -1,6 +1,9 @@
 ---
 layout: style
 ---
+html {
+    overflow-x: hidden;
+}
 #top {
     display: none;
     
@@ -97,7 +100,24 @@ header .intro-text .intro-lead-out {
         line-height: 28px;
     }
 }
-
+@media(max-width: 768px) {
+    .btn {
+        font-size: 14px;
+        padding: 20px;
+    }
+}
+@media(max-width: 450px) {
+    .btn {
+        white-space: normal;
+        display: block;
+        margin: 20px 0;
+    }
+}
+@media(max-width: 376px) {
+    section h2.section-heading {
+        font-size: 32px;
+    }
+}
 @media (max-width: 1200px) {
     .navbar-default {
         padding: 10px 0;
