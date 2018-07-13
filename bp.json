@@ -40,7 +40,6 @@
             },
             "node_type": "full",
             "p2p_endpoint": "p2p.eossocal.io:9999",
-            "api_endpoint": "https://api.eossocal.io",
             "ssl_endpoint": "https://api.eossocal.io"
         }
     ]
