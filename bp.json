@@ -8,9 +8,9 @@
         "ownership_disclosure": "https://eossocal.io#transparency",
         "email":"connect@eosocal.io",
         "branding":{
-            "logo_256":"https://eossocal.io/logo-256.png",
-            "logo_1024":"https://eossocal.io/logo-1024.png",
-            "logo_svg":"https://eossocal.io/logo.svg"
+            "logo_256":"https://eossocal.io/img/logo-256.png",
+            "logo_1024":"https://eossocal.io/img/logo-1024.png",
+            "logo_svg":"https://eossocal.io/img/logo.svg"
         },
         "location": {
             "name": "Los Angeles, CA",
