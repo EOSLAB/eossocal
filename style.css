@@ -4,10 +4,17 @@ layout: style
 html {
     overflow-x: hidden;
 }
+.learn-more {
+    margin-top: 10px;
+    display: inline-block;
+    padding: 10px;
+}
+.learn-more i {
+    color: white;
+    font-size: 36px;
+}
 #top {
     display: none;
-    
-    
     background-color: #{{ site.data.template.color.primary }};
     border: 2px solid white;
     z-index: 50;
