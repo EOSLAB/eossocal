@@ -1,0 +1,65 @@
+<!-- Portfolio Grid Section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contributions</h2>
+                    <h3 class="section-subheading text-muted">Tools, Content, and Community</h3>
+                </div>
+            </div>
+            <!-- <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="text-muted">We are committed to contributing back a percentage of block production rewards into the EOSIO ecosystem to support success and sustainability.</p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 30px;">
+                <div class="col-lg-3 col-lg-offset-1 text-center">
+                    <h5 class="text-yellow">X% To "Contributions"</h5>
+                    <ul class="text-muted text-left">
+                        <li>Educational Workshops/Content</li>
+                        <li>Community Support </li>
+                        <li>Informational Meetups</li>
+                        <li>Studies</li>
+                        <li>More</li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <h5 class="text-blue">X% To "Development"</h5>
+                    <ul class="text-muted text-left">
+                        <li>Community Tools</li>
+                        <li>Developer Resources</li>
+                        <li>dApp Development</li>
+                        <li>dApp Funding & Incubation</li>
+                        <li>More</li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <h5 class="text-red">X% To "Server" Operations</h5>
+                    <ul class="text-muted text-left">
+                        <li>Server Maintenance & Scaling</li>
+                        <li>Parallel  Blockchains</li>
+                        <li>Data Center and Staffing</li>
+                        <li>Other Related</li>
+                    </ul>
+                </div>
+            </div> -->
+            <div class="row">
+            {% for post in site.posts %}
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.subtitle }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>

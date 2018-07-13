@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EOS SOCAL</title>
+    <description>Proud EOSIO Block Producer Candidate from Southern California.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 10 Jul 2018 12:07:19 -0700</pubDate>
+    <lastBuildDate>Tue, 10 Jul 2018 12:07:19 -0700</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>TradeStuff</title>
+        <description>
+</description>
+        <pubDate>Sat, 19 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/19/tradestuff/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/19/tradestuff/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>EOSDrops.io</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/18/eosdrops-Copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/18/eosdrops-Copy/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Scholar Testnet</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/17/scholar-testnet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/17/scholar-testnet/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>BP Transparency &amp; Accountability</title>
+        <description>
+</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/16/bp-transparency/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/16/bp-transparency/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>EOS Block Producer Distribution</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/15/eos-bp-distribution/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/15/eos-bp-distribution/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>EOSIO &quot;Whale&quot; Study</title>
+        <description>
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/14/eosio-whale-study/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/14/eosio-whale-study/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>EOS GO BP</title>
+        <description>
+</description>
+        <pubDate>Sun, 13 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/13/bp-eosgo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/13/bp-eosgo/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hack Til Dawn</title>
+        <description>
+</description>
+        <pubDate>Sat, 12 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/12/hack-till-dawn/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/12/hack-till-dawn/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>EOSWallets.io</title>
+        <description>
+</description>
+        <pubDate>Fri, 11 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/11/eos-wallets/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/11/eos-wallets/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>EOS Dapp Dev Meetup</title>
+        <description>
+</description>
+        <pubDate>Fri, 11 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/07/11/eos-dapp-development-meetup/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/11/eos-dapp-development-meetup/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<!-- Team Section -->
+<section id="block-production" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Block Production</h2>
+                <h3 class="section-subheading text-muted">Reliable, Independant, and Secure</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="pull-right">
+                    <img class="hidden-xs" style="max-height: 500px;" src="{{ site.baseurl }}/img/block-production-architecture.png" />
+                </div>
+                <p class="large text-muted">
+                    We are experienced in node operation and large-scale mining. Today our full focus is on EOS Node operation and block production and being active in the EOS community to support a secure and successful main net launch.
+                </p>   
+                <p class="large text-muted">
+                    We have completed numerous internal and community testnet launches and have gained significant launch experience participating in both Canada's BIOS BOOT and Ghostbuster's Mesh VPN launch strategies. We have successfully implemmented the latest security recommendations and architecture from the BP infrastructure group for protection against network attacks such as DDOS. 
+                </p>
+                <h4 class="text-muted">Security & Reliability Through Redundancy</h4>
+                <p class="large text-muted">
+                    In order to maintain seamless business operations, we have implemented a multi-site, multi-node configuration with the full environment running redundantly with data replication mechanisms. This configuration is designed to mitigate business disruption and data loss in the event of a disaster.
+                </p>
+                <p class="large text-muted">
+                    A load balancer on the public layer helps distribute the load between proxy servers that act as a layer between our full nodes and the public end point. Multiple full nodes connect to a trusted network of trusted third party block producer nodes and add a layer of protection above our actively producing nodes.
+                </p>
+                <p class="large text-muted">
+                    Our producer node is protected via WireGuard private network and exists on a separate layer for added security. During a disaster, the block production responsibility can be shifted to a Bare Metal back up node while primary cloud servers are restored. Furthermore, in the disaster scenario, auto-scaling can be configured in order to add more EC2 instances to scale horizontally. 
+                </p>
+                <h4 class="text-muted">Horizontal Scalability</h4>
+                <p class="large text-muted">
+                    ​We are aware and prepared for the requirement to operate as many chains as necessary to meet user demand. 
+                </p>
+                <p class="large text-muted">
+                    Our initial nodes is configured with spare capacity that is under-utilized during normal operations in order to provide ample time and space to scale both vertically and horizontally, and accommodate demand loads on single chain as well as the launch of additional nodes required to operate multiple chains. 
+                </p>
+                <p class="large text-muted">
+                    Our goal is to always stay ahead of demand by maintaining spare capacity and scaling both bare metal hardware and cloud capacity well in advance. Our secondary active cloud-based environment allows for immediate emergency scaling if it becomes necessary, giving us time to scale bare metal hardware.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center" style="margin-top: 30px;">
+                <a href="https://public.eosocal.io/v1/chain/get_info" target="_blank" class="btn btn-xl">Connect to our Public Livenet Endpoint</a>
+            </div>
+        </div>
+    </div>
+</section>
