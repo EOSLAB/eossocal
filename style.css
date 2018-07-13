@@ -75,7 +75,7 @@ section#contact .form-group textarea.form-control {
     height: 156px;
 }
 header {
-    background-image: url('{{ site.baseurl }}/img/background.png');
+    background-image: url('{{ site.baseurl }}/img/background.jpg');
 }
 header .intro-text .intro-lead-out {
     margin-bottom: 25px;
