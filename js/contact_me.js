@@ -17,14 +17,14 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/cesar@eosocal.io",
+                url: "https://getsimpleform.com/messages/ajax?form_api_token=4ab5b682561e194a5c47abd9768970ae",
                 type: "POST",
                 data: {
                     name: name,
                     email: email,
                     message: message
                 },
-                dataType: 'json',
+                dataType: 'jsonp',
                 cache: false,
                 success: function() {
                     // Success message
