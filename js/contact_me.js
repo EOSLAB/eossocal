@@ -17,13 +17,14 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/alex@eosocal.io",
+                url: "//formspree.io/cesar@eosocal.io",
                 type: "POST",
                 data: {
                     name: name,
                     email: email,
                     message: message
                 },
+                dataType: 'json',
                 cache: false,
                 success: function() {
                     // Success message
