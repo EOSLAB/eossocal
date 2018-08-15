@@ -23,7 +23,7 @@ people:
         url: https://steemit.com/introduceyourself/@ceezdeez/hi-steem-community-i-m-new-here-and-i-ll-be-contributing-truth-and-enlightenment-to-empower-humanity
       - title: telegram
         icon: icomoon
-        url: #
+        url: https://t.me/cesareos
 
   - name: Alex Gomory
     pic: alex.png
@@ -64,7 +64,7 @@ social:
     icon: icomoon
     url: https://steemit.com/@eos-socal
   - title: github
-    url: https://github.com/eosocal
+    url: https://github.com/eossocal
 
 # Build settings
 markdown: kramdown
