@@ -1,11 +1,12 @@
 url: https://eossocal.github.io
 
 # Site settings
-title: EOS SOCAL
+title: EOS SOCAL - Developer and Incubator of Decentralized Applications
 subtitle: Block Producer Candidate & Supporter of EOSIO
 email: connect@eossocal.io
 description: "Proud EOSIO Block Producer Candidate from Southern California."
-metadescription: "We are EOS Southern California, a group dedicated to supporting the viability of EOSIO software and community through various contributions."
+metadescription: "Research and development of EOSIO open source software with expertise in block production, smart contract development and decentralized applications."
+
 
 # Team names, titles and social links
 people:
